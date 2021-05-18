@@ -1,0 +1,6 @@
+# Fill the appropriate file names and save as data_paths.json (remove comments)
+{
+  "ronin_checkpoint": <file path to resnet model>,  # https://www.dropbox.com/s/2f16rd3y4hyaiku/ronin_resnet.zip?dl=0
+  "floor_plan_dir": <path to folder containing path>,
+  "source_dir": <path to this folder>
+}
