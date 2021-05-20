@@ -1,5 +1,6 @@
-# Fusion_DHL
-Paper: TBD
+# Fusion-DHL: WiFi, IMU, and Floorplan Fusion for Dense History of Locations in Indoor Environments
+ 
+Paper: [arXiv](https://arxiv.org/abs/2105.08837) (ICRA 2021)
 
 Video : https://youtu.be/CCDms7KWgI8
 
